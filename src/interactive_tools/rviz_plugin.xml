@@ -1,6 +1,6 @@
 <library path="lib/libsimple_panel">
 
-  <class type="rviz_panel::ME5413ControlPanel" base_class_type="rviz::Panel">
+  <class name="rviz_panel::ME5413ControlPanel" type="rviz_panel::ME5413ControlPanel" base_class_type="rviz::Panel">
     <description>
       A simple panel widget with two buttons.
     </description>
